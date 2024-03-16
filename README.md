@@ -396,7 +396,7 @@ function Aten()
                 5, -- Time (seconds)
             },
             Cycles = {
-                Min = 3,
+                Min = 1,
                 Max = 3,
                 WaitTime = 2,
             },
